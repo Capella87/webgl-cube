@@ -1,0 +1,11 @@
+{
+  "name": "webgl-cube",
+  "version": "1.0.0",
+  "description": "A cube implementation using WebGL with textures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Capella87",
+  "license": "MIT"
+}
