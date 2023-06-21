@@ -2,4 +2,11 @@ root = true
 
 [*]
 charset = utf-8
+indent_style = space
 insert_final_newline = true
+
+[*.{json,js,htm,html,toml}]
+indent_size = 2
+
+[*.{!json,!js,!htm,!html,!toml}]
+indent_size = 4
